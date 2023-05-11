@@ -1,8 +1,5 @@
 # themetumblr1teste
 teste de codigo para thema de HTLM utilizando linguagem basica para aplicação de teoria
-<!-- Theme desenvolvido por Pedricovick || aniquilou -->
-<!-- Theme de numero 089 - Encontre outros em http://aniquilou.tumblr.com/ -->
-<!-- Caso o theme apresente algum defeito, favor entrar em contato. -->
 
 <!--                 A T E N Ç Ã O !!     
 
